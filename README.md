@@ -1,6 +1,6 @@
 # free gamestuff
 
-#2d
+# 2d
 
 ## complete game
 https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
@@ -24,5 +24,5 @@ https://assetstore.unity.com/packages/2d/environments/2d-jungle-side-scrolling-p
 https://assetstore.unity.com/packages/2d/textures-materials/sky/worldskies-free-86517
 https://assetstore.unity.com/packages/2d/textures-materials/floors/tileable-hand-painted-ground-texture-pack-2-62018
 
-#isometric
+# isometric
 https://assetstore.unity.com/packages/2d/environments/realistic-city-buildings-light-version-54205
